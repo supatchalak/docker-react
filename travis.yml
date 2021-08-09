@@ -8,4 +8,3 @@ before_install:
 
 script:
   - docker run supatchalak/docker-react npm run test -- --coverage
-
